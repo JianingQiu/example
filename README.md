@@ -1,2 +1,2 @@
 # example
-example repo for ICL's graduate school course
+example repo for ICL's graduate school course.
